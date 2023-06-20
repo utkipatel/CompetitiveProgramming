@@ -1,7 +1,8 @@
 #include<bits/stdc++.h>
 
-typedef long long ll;
 using namespace std;
+typedef long long ll;
+typedef pair<int,int> ip;
 
 int main() {
     
